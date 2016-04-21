@@ -1,0 +1,28 @@
+name: ALICEA CALDAS
+favicon: null
+layout_spectrum: 0.4738070513121784
+typography_spectrum: 0.7521664341911674
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.42170450696721673
+  lightness: 0.31179759511724114
+  saturation: 0.5605719999875873
+  rhythmicContrast: 0.021047594724223018
+purpose: []
