@@ -1,7 +1,7 @@
 name: ALICEA CALDAS
 favicon: null
 layout_spectrum: 0.23436
-typography_spectrum: 0.7521664341911674
+typography_spectrum: 0.2631
 title: ALICEA CALDAS Photography
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#aa8551'
-    - '#ffffff'
-    - '#b59a76'
-    - '#ede8e1'
-    - '#d2bfa4'
+    - '#e4e4e4'
+    - '#bebebe'
+    - '#1b1b1b'
+    - '#9a9a9a'
+    - '#606060'
   brandStrength: 0.42170450696721673
   lightness: 0.31179759511724114
   saturation: 0.5605719999875873
-  rhythmicContrast: 0.021047594724223018
+  rhythmicContrast: 0.25
 purpose: []
